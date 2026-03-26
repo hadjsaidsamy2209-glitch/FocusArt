@@ -99,23 +99,8 @@ Then select your target device and press **⌘R** to run.
 
 ---
 
-## 👥 Team
 
-Built by a team of 5 developers during the **Apple Foundation Program** at **Simplon SUD Marseille** — February to March 2026.
 
-| Role | Focus |
-|---|---|
-| UI/UX & Navigation | Home, Artwork Description, Annotations |
-| Data & Architecture | Data models, Categories, Search |
-| Map & Location | MapKit integration, Museum cards |
-| Favorites & Profile | Favorites grid, User profile |
-| Splash & Theming | Splash screen, Design system, Poppins font |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
