@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "mer_la_baule_douceur_sous_les_pins_81_par_65_cm_site_internet.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "mer_la_baule_douceur_sous_les_pins_81_par_65_cm_site_internet@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "mer_la_baule_douceur_sous_les_pins_81_par_65_cm_site_internet@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
